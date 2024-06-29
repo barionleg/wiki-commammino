@@ -49,12 +49,3 @@ https://barionleg.github.io/galaxy-map/wiki/piframe.html
 
 ![image](https://github.com/barionleg/galaxy-map/assets/102619282/dbf51ea4-7bcb-40ec-bae5-60ac72489e4b)
 
-`<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-48421SSQ12"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-48421SSQ12');
-</script>`
