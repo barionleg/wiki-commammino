@@ -41,3 +41,40 @@ utracker.org/forum/viewtopic.php?t=2536427
 https://katamino-polymer.firebaseapp.com/
 
 ![image](https://github.com/user-attachments/assets/78993fb6-3d09-4d14-8350-bf730e44e7e1)
+
+https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/aperiodic-tilings/
+
+![image](https://github.com/user-attachments/assets/bbaa4765-dff3-489f-82b4-1b4fb619bfdc)
+
+https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/findloop/
+
+![image](https://github.com/user-attachments/assets/00b18b0e-b84b-495c-bfa9-4a64834f69e3)
+
+https://git.tartarus.org/?p=simon/puzzles.git;a=log
+
+http://www.megacz.com/berkeley/research/papers/nestedvm.ivme04.pdf
+
+http://nestedvm.ibex.org/
+
+https://docs.gtk.org/gtk3/class.Application.html
+
+https://www.gtk.org/
+
+clone auf several ways
+
+Work with the language of your choice
+Develop your GTK app with your language of choice by using Language Bindings or wrappers and take full advantage of the official GNOME bindings which guarantee API stability and time-based releases.
+
+![image](https://github.com/user-attachments/assets/d7645e89-667a-4dc1-9c3f-329c9841d0de)
+
+GNOME 
+
+now 
+
+სიმონეტაინნიდვარფ gtk.org დრო კატეგატ 
+
+dramm AT ICA @3EKAUCASUS  ֏ на ДВАРгинал ФизикАChemiЭE РОССКИЙ илижек ПРУССКИЙ ытО 🎃 называеться 👿 бесухарбетаре слишком перегнули палкуо ₾₼
+
+IN MiliТЯRy ДbROLIЧE: გატაკო? ღატაკოო?
+
+🏛 MONUMENTAL ✳ ASTERISKT OBELYSK [LEVANdE; eller d'bARgenetyskt jag 💕 ER, but ERი or she, who love ⚖ just 💶 me on papper?] 
