@@ -11,3 +11,5 @@ https://barionleg.github.io/site/index.html
 https://barionleg.github.io/site/index_org.html
 
 ![image](https://github.com/user-attachments/assets/260e6b6a-4c2a-4383-8447-c276a265be77)
+
+![image](https://github.com/user-attachments/assets/ba3aefd3-cd73-41c5-ad2c-1ccf8197d7f8)
