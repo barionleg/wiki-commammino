@@ -26,6 +26,9 @@ https://www.wolframcloud.com/objects/demonstrations/PentagonTilings-source.nb
 
 https://demonstrations.wolfram.com/PentagonTilings/
 
+![image](https://github.com/user-attachments/assets/34db3f34-362e-4dbf-a94b-bc3fd8228814)
+
+
 https://help.bookpublishertools.com/faqs/puzzle-maker-pro-hexagons-overview
 
 https://www.bookpublishertools.com/product/puzzle-maker-pro-jigsaw-circles/?_ga=2.215206801.708914703.1719583205-1487938630.1719583205
@@ -34,3 +37,7 @@ https://www.bookpublishertools.com/product/puzzle-maker-pro-jigsaw-circles/?_ga=
 Puzzles collection
 
 utracker.org/forum/viewtopic.php?t=2536427
+
+https://katamino-polymer.firebaseapp.com/
+
+![image](https://github.com/user-attachments/assets/78993fb6-3d09-4d14-8350-bf730e44e7e1)
