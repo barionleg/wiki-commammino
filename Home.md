@@ -30,6 +30,9 @@ ___________________________________________
 ☄ COMETS тО бАЛб
 
 
+https://barionleg.github.io/comamino-polymer/build/cobaldb/index.html
+
+![image](https://github.com/user-attachments/assets/f097eb8a-199b-41d5-94fe-36d9e02a87b3)
 
 
 ი.ბ.
