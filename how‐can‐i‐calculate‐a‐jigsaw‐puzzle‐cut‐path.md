@@ -78,3 +78,5 @@ dramm AT ICA @3EKAUCASUS  ֏ на ДВАРгинал ФизикАChemiЭE РОС
 IN MiliТЯRy ДbROLIЧE: გატაკო? ღატაკოო?
 
 🏛 MONUMENTAL ✳ ASTERISKT OBELYSK [LEVANdE; eller d'bARgenetyskt jag 💕 ER, but ERი or she, who love ⚖ just 💶 me on papper?] 
+
+თრიაქბოი ანუ პატრა კაქსი გააგდეს და ოკუპან მაჯლაჯუ ny დაიტოვეს ... რომლებიც ვერგაგებული ხუმრობის пабочный продукт, tja!
