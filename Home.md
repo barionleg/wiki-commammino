@@ -24,7 +24,7 @@ https://barionleg.github.io/comamino-polymer/build/superid/index.html
 
 ![image](https://github.com/user-attachments/assets/614fbef2-5fa5-4a32-906a-63ea8ceeed09)
 
-kodböckICA
+[kodböckICA](https://barionleg.github.io/comamino-polymer/build/superid/index.html)
 ___________________________________________
 
 ☄ COMETS тО бАЛб
