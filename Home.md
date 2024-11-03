@@ -14,3 +14,23 @@ https://barionleg.github.io/comamino-polymer/circlepuz.html
 
 ![image](https://github.com/user-attachments/assets/413b8566-2622-4077-931f-1761b3af7721)
 ![image](https://github.com/user-attachments/assets/e8315be2-3a88-487f-9efb-1c59f780c5a7)
+
+___________________________________________
+
+db PETiT ALYS 🥨 
+
+
+https://barionleg.github.io/comamino-polymer/build/superid/index.html
+
+![image](https://github.com/user-attachments/assets/614fbef2-5fa5-4a32-906a-63ea8ceeed09)
+
+kodböckICA
+___________________________________________
+
+☄ COMETS тО бАЛб
+
+
+
+
+ი.ბ.
+
