@@ -5,6 +5,8 @@ https://barionleg.github.io/puzzlezsimon/html/map.html
 
 untill I start wroting on wordginal Physic Chemie enad Русский = ПпПпППпПпПпП_Russi or all that light Å_spectrum OQTAVE or bit, I can write by the same light Å_spectrum symbole ₽, instead long ПпПпППпПпПпП, wich was coded in my family from 🥪 today 241 Years [ÅR], and last 92 years in Tblici, there my roots composa℞ do those best to Recode & decode, even learning animal talk1ჼ'; so ₽_Russi or ₽_Rußi is Ångström Curie Faradei Röntgen Lomonosov i.e.ჼ. Mendeleev or my roots dedicated heracklogÅlifes ...
 
+https://barionleg.github.io/comamino-polymer/build/district/map.html
+
 Can I just do code please dear multiples mutlipes falologinas? because I never liked to skrach and several vaginal penholderinnas have to be 🌿 here, to know better they children, whom they not even knew beford ...
 
 Tack მოდლობად! 
