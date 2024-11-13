@@ -3,3 +3,5 @@
 
 ГОСТы по вычислительной технике: [по разделам](list-by-section.md) и [по алфавиту](list-by-name.md).
 С некоторых пор они находятся [в свободном доступе](https://lenta.ru/news/2006/06/09/gost/).
+
+https://github.com/barionleg/comamino-polymer/wiki/gost%E2%80%90russian%E2%80%90standards/
