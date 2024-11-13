@@ -10,7 +10,7 @@ https://eprint.iacr.org/2015/650
 ![image](https://github.com/user-attachments/assets/1244c3dd-ce0b-4a91-ae53-c06f0615c6ba)
 
 
-
+https://github.com/barionleg/git-hash-transition-plan
 
 https://www.chiark.greenend.org.uk/local-cgi/cvsweb-list
 
