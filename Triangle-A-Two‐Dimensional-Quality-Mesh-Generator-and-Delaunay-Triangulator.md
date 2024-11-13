@@ -1,6 +1,6 @@
 Comamino Polymer & Triangle Hat & Crystal_lines
 
-![image](https://github.com/user-attachments/assets/70cf7ee4-d5b0-4031-8e97-a9d9be7d5f53)TRIANgLE
+![image](https://github.com/user-attachments/assets/70cf7ee4-d5b0-4031-8e97-a9d9be7d5f53)⛛TRIANgLE
 
 #  Triangle A ⛛ Two-Dimensional Quality Mesh Generator and Delaunay Triangulator  🔽 
 
