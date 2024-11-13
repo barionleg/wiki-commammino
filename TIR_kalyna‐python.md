@@ -15,3 +15,6 @@ https://github.com/barionleg/git-hash-transition-plan
 https://www.chiark.greenend.org.uk/local-cgi/cvsweb-list
 
 https://www.chiark.greenend.org.uk/local-cgi/gitweb-list
+
+
+https://github.com/barionleg/kalyna-python/wiki/starcraft%E2%80%90catalogue
