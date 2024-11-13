@@ -1,0 +1,5 @@
+[Welcome to the gost-russian-standards wiki!
+](https://github.com/barionleg/gost-russian-standards/wiki/)
+
+ГОСТы по вычислительной технике: [по разделам](list-by-section.md) и [по алфавиту](list-by-name.md).
+С некоторых пор они находятся [в свободном доступе](https://lenta.ru/news/2006/06/09/gost/).
