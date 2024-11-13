@@ -80,3 +80,44 @@ https://www.cs.cmu.edu/~quake/triangle.research.html
 https://www.cmu.edu/cee/research/quake/software.html
 
 https://www.cs.cmu.edu/~quake-papers/armenia.abstract
+
+https://polypad.amplify.com/p/8kVqVH2Mor6JTQ#geometry
+
+https://cs.uwaterloo.ca/~csk/hat/
+
+https://gkmp32.com/production/rost/ustanovki-dlya-vyrashchivaniya-kristalla-kremniya-metodom-chokhralskogo/
+
+![image](https://github.com/user-attachments/assets/cba7d213-4456-4bd9-b316-a02e90167929)
+
+
+[Чохральский плавающая зона](https://www.google.com/search?q=%D0%A7%D0%BE%D1%85%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9+%D0%BF%D0%BB%D0%B0%D0%B2%D0%B0%D1%8E%D1%89%D0%B0%D1%8F+%D0%B7%D0%BE%D0%BD%D0%B0&sca_esv=c5d1db8986e685e6&sxsrf=ADLYWIK4GsGso9ElrWs2KZ4T7NUc1Q1iMw%3A1731238574544&ei=rpowZ4zjINikkdUP5Yr8iAM&ved=0ahUKEwiM8oai1tGJAxVYUqQEHWUFHzEQ4dUDCA8&oq=%D0%A7%D0%BE%D1%85%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9+%D0%BF%D0%BB%D0%B0%D0%B2%D0%B0%D1%8E%D1%89%D0%B0%D1%8F+%D0%B7%D0%BE%D0%BD%D0%B0&gs_lp=Egxnd3Mtd2l6LXNlcnAiMtCn0L7RhdGA0LDQu9GM0YHQutC40Lkg0L_Qu9Cw0LLQsNGO0YnQsNGPINC30L7QvdCwMggQABiABBiiBEj_FlCGB1iGB3ABeACQAQCYAVigAViqAQExuAEMyAEA-AEBmAICoAJkwgILEAAYgAQYsAMYogSYAwCIBgGQBgGSBwEyoAegAQ&sclient=gws-wiz-serp)
+
+https://de.wikipedia.org/wiki/Jan_Czochralski
+
+![image](https://github.com/user-attachments/assets/c14a5f17-4a6d-48ea-ab5e-f023ce4478a9)
+
+[Ein neues Verfahren zur Messung der Kristallisationsgeschwindigkeit der Metalle
+](https://de.wikipedia.org/wiki/Czochralski-Verfahren)
+
+[Ein neues Verfahren zur Messung der Kristallisationsgeschwindigkeit der Metalle](https://www.degruyter.com/document/doi/10.1515/zpch-1918-9212/html?lang=de)
+
+https://ethw.org/Jan_Czochralski_publishes_A_New_Method_for_the_Measurement_of_the_Crystallization_Rate_of_Metals
+
+[Новый метод измерения скорости кристаллизации металлов](https://www.google.com/search?q=%D0%9D%D0%BE%D0%B2%D1%8B%D0%B9+%D0%BC%D0%B5%D1%82%D0%BE%D0%B4+%D0%B8%D0%B7%D0%BC%D0%B5%D1%80%D0%B5%D0%BD%D0%B8%D1%8F+%D1%81%D0%BA%D0%BE%D1%80%D0%BE%D1%81%D1%82%D0%B8+%D0%BA%D1%80%D0%B8%D1%81%D1%82%D0%B0%D0%BB%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8+%D0%BC%D0%B5%D1%82%D0%B0%D0%BB%D0%BB%D0%BE%D0%B2&sourceid=chrome&ie=UTF-8)
+
+[скоростью зарождения центров кристаллизации и скоростью роста кристаллов.
+](https://www.google.com/search?q=%D1%81%D0%BA%D0%BE%D1%80%D0%BE%D1%81%D1%82%D1%8C%D1%8E+%D0%B7%D0%B0%D1%80%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F+%D1%86%D0%B5%D0%BD%D1%82%D1%80%D0%BE%D0%B2+%D0%BA%D1%80%D0%B8%D1%81%D1%82%D0%B0%D0%BB%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8+%D0%B8+%D1%81%D0%BA%D0%BE%D1%80%D0%BE%D1%81%D1%82%D1%8C%D1%8E+%D1%80%D0%BE%D1%81%D1%82%D0%B0+%D0%BA%D1%80%D0%B8%D1%81%D1%82%D0%B0%D0%BB%D0%BB%D0%BE%D0%B2.&sourceid=chrome&ie=UTF-8)
+
+
+https://www.geolib.net/crystallography/obrazovanie-i-rost-kristallov.html
+
+![image](https://github.com/user-attachments/assets/04dea306-d33a-4fef-88b6-6b6d9231f95b)
+
+[![image](https://github.com/user-attachments/assets/958cd712-63e7-4f84-8596-a67e13714539)
+](https://youtu.be/5CaH79eOEyk)
+
+https://www.booksite.ru/fulltext/1/001/008/066/373.htm
+
+https://ru.wikipedia.org/wiki/Метод_Чохральского
+
+https://de.wikipedia.org/wiki/Zeitschrift_f%C3%BCr_Physikalische_Chemie
