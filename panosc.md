@@ -37,4 +37,6 @@ https://barionleg.github.io/panosc/Work%20Packages/WP4%20Data%20analysis%20servi
 
 ![image](https://github.com/user-attachments/assets/eacbe439-0df1-4fc8-a2c8-202524107fca)
 
+https://www.panosc.eu/services/pan-software-catalogue/
 
+https://zenodo.org/communities/panosc/records?q=&l=list&p=1&s=10&sort=newest
