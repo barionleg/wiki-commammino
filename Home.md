@@ -38,6 +38,12 @@ https://barionleg.github.io/comamino-polymer/build/district/map.html
 
 ![image](https://github.com/user-attachments/assets/5a77810c-da5b-4217-81ea-0723401d623d)
 
+https://next-gen.materialsproject.org/materials/mp-19128#external_links
+
+![image](https://github.com/user-attachments/assets/1232ec17-f574-46e5-82db-fef80b8095cd)
+
+
 
 [ი.ბ.](https://barionleg.github.io/comamino-polymer/build/cobaldb/index.html)
+
 
