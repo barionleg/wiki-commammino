@@ -42,6 +42,24 @@ https://next-gen.materialsproject.org/materials/mp-19128#external_links
 
 ![image](https://github.com/user-attachments/assets/1232ec17-f574-46e5-82db-fef80b8095cd)
 
+# [comamino-polymer](https://github.com/barionleg/comamino-polymer/wiki)
+
+https://barionleg.github.io/comamino-polymer/build/superid/index.html
+
+![image](https://github.com/user-attachments/assets/fd9dd5fa-6452-4837-93ca-b190be444ad2)
+
+![image](https://github.com/user-attachments/assets/cc004739-cc71-4685-b9b7-bc49ab85c469)
+
+https://barionleg.github.io/comamino-polymer/build/cobaldb/index.html
+
+![image](https://github.com/user-attachments/assets/b8a84a29-4efe-41f8-9a8e-a5439785e020)
+
+
+![image](https://github.com/user-attachments/assets/662dc687-d31e-46ea-8c0f-756b7a96c70b)
+
+![image](https://github.com/user-attachments/assets/cbebc39c-5b28-4386-8b3f-c72190cc9a68)
+
+![image](https://github.com/user-attachments/assets/b5bc3c19-08eb-40aa-8ec1-bd61888abe93)
 
 
 [ი.ბ.](https://barionleg.github.io/comamino-polymer/build/cobaldb/index.html)
