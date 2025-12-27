@@ -19,6 +19,11 @@ ___________________________________________
 
 db PETiT ALYS 🥨 
 
+https://en.wikipedia.org/wiki/Graph_theory
+
+[<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/ceca81ff-a664-4a31-b849-12c26d6f22e3" />
+](https://en.wikipedia.org/wiki/Graph_theory)
+
 
 https://barionleg.github.io/comamino-polymer/build/superid/index.html
 
